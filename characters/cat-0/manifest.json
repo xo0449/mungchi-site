@@ -6,7 +6,7 @@
   "version": 1,
   "tier": "free",
   "source": {
-    "author": "뭉치 (문자열로 픽셀을 놓아 그림, art/mammals.py)",
+    "author": "뽀모야 (문자열로 픽셀을 놓아 그림, art/mammals.py)",
     "license": "project-internal"
   },
   "cell": 32,

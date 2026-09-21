@@ -6,7 +6,7 @@
   "version": 1,
   "tier": "paid",
   "source": {
-    "author": "뭉치 (문자열로 픽셀을 놓아 그림, art/others.py)",
+    "author": "뽀모야 (문자열로 픽셀을 놓아 그림, art/others.py)",
     "license": "project-internal"
   },
   "cell": 32,
