@@ -18,8 +18,7 @@
     "walkSpeed": 0.8,
     "climbSpeed": 0.7,
     "napLength": 2.0,
-    "slipChance": 0.6,
-    "cpuSensitivity": 0.6
+    "slipChance": 0.6
   },
   "anims": {
     "idle": {

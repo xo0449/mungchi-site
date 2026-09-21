@@ -17,8 +17,7 @@
   "traits": {
     "walkSpeed": 1.1,
     "climbSpeed": 1.2,
-    "slipChance": 1.4,
-    "cpuSensitivity": 1.2
+    "slipChance": 1.4
   },
   "anims": {
     "idle": {

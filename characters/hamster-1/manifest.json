@@ -16,8 +16,7 @@
   },
   "traits": {
     "walkSpeed": 1.2,
-    "napLength": 0.8,
-    "cpuSensitivity": 1.3
+    "napLength": 0.8
   },
   "anims": {
     "idle": {
